@@ -1,0 +1,544 @@
+body {
+position: relative;
+width: 1920px;
+height: 3361px;
+background: #EDEDED;
+}
+
+.head {
+    width: 1,920px;
+    height: 164px;
+    padding: 0px 0px 60px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.headhead {
+    width: Fixed (1,920px)px;
+    height: Hug (104px)px;
+    padding: 32px 0px 32px 0px;
+    gap: 10px;
+    opacity: 0px;
+   
+background: #191919;
+}
+
+.headinfa {
+    width:1,296.43px;
+    height: 40px;
+    gap: 0px;
+    justify-content: space-around;
+    opacity: 0px;
+    display: flex;
+}
+
+.logo {
+    width: 325px;
+    height: 12px;
+    top: 14px;
+    left: 2px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.cait {
+    width: 325px;
+height: 12px;
+top: 14px;
+left: 2px;
+gap: 0px;
+opacity: 0px;
+color: #FFFFFF;
+}
+
+.logo1 {
+    width: Hug (758.43px)px;
+    height: Hug (22px)px;
+    gap: 20px;
+    opacity: 0px;
+padding-top: 15px;
+display: flex;
+
+}
+
+.w1 {
+    width: 54px;
+height: 22px;
+gap: 0px;
+opacity: 0px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.w2 {width: 108px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.w3 {width: 73px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.w4 {width: 122px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #FFFFFF;
+}
+
+
+.w5 {width: 61px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.w6 {width: 98px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.romb {
+    width: 6px;
+height: 6px;
+gap: 0px;
+border-radius: 1px 0px 0px 0px;
+opacity: 0px;
+background: #FFFFFF;
+transform: rotate(-45deg)
+}
+
+
+.slider {
+    width: 1,296px;
+height: 497px;
+top: 164px;
+left: 312px;
+gap: 24px;
+opacity: 0px;
+display: flex;
+position: absolute;
+}
+
+.img1 {
+    width: 856px;
+height: 497px;
+gap: 0px;
+border-radius: 12px ;
+opacity: 0px;
+
+}
+
+.opera {
+    width: 416px;
+height: 224px;
+gap: 16px;
+opacity: 0px;
+
+}
+
+.opera1 {
+    width: 416px;
+height: 104px;
+padding: 12px 16px 12px 16px;
+gap: 24px;
+border-radius: 8px ;
+opacity: 0px;
+background: #1919190D;
+
+}
+
+.imgopera1 {
+    width: 80px;
+height: 80px;
+gap: 0px;
+border-radius: 8px ;
+opacity: 0px;
+
+}
+
+.textopera1 {
+    width: 280px;
+height: 22px;
+gap: 0px;
+opacity: 0px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #191919;
+}
+
+.opera2 {
+    width:416px;
+height: 104px;
+padding: 12px 16px 12px 16px;
+gap: 24px;
+border-radius: 8px ;
+opacity: 0px;
+
+
+}
+
+.imgopera2 {
+    width: 80px;
+height: 80px;
+gap: 0px;
+border-radius: 8px ;
+opacity: 0px;
+
+}
+
+.textopera2 {
+    width: 280px;
+height: 22px;
+gap: 0px;
+opacity: 0px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+color: #191919;
+}
+
+.afica {
+    width:1,296px;
+height:855px;
+top: 845px;
+left: 324px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.vepxafica {
+    width: Hug (1,296px)px;
+    height: Hug (167px)px;
+    padding: 0px 0px 100px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.vepxafica1 {
+    width: Fixed (1,296px)px;
+    height: Hug (67px)px;
+justify-content: space-between;
+opacity: 0px;
+display: flex;
+
+}
+
+.af {
+    width: 161px;
+height: 67px;
+gap: 0px;
+opacity: 0px;
+font-family: Garamond;
+font-size: 48px;
+font-weight: 700;
+line-height: 67.2px;
+text-align: center;
+color: #191919;
+display: flex;
+
+}
+
+
+.af1 {
+    width: Hug (259px)px;
+    height: Hug (40px)px;
+    gap: 32px;
+    opacity: 0px;
+    display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+
+
+
+.cal {
+    width: 40px;
+height: 40px;
+padding: 2.5px ;
+gap: 0px;
+opacity: 0px;
+display: flex;
+}
+
+
+
+.vsevepo {
+    width: 187px;
+height: 34px;
+gap: 0px;
+opacity: 0px;
+font-family: Garamond;
+font-size: 24px;
+font-weight: 700;
+line-height: 33.6px;
+text-align: left;
+color: #191919;
+}
+
+.posti {
+    width: Hug (1,296px)px;
+height: Hug (688px)px;
+gap: 80px;
+opacity: 0px;
+
+
+
+}
+
+.post1 {
+    width: 1,296px;
+height:304px;
+padding: 32px 60px 32px 60px;
+gap: 0px;
+border-radius: 16px;
+justify-content: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+align-items: center;
+background: #1919190D;
+
+}
+
+
+
+.data1 {
+    width: 79px;
+height: 119px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.data4iclo {
+    width: 79px;
+height: 90px;
+gap: 0px;
+opacity: 0.75px;
+font-family: Garamond;
+font-size: 64px;
+font-weight: 700;
+line-height: 89.6px;
+text-align: center;
+color: #191919;
+display: flex;
+margin: -16px;
+}
+
+.datamec {
+    width: 79px;
+height: 45px;
+gap: 0px;
+opacity: 0.75px;
+font-family: Garamond;
+font-size: 32px;
+font-weight: 700;
+line-height: 44.8px;
+text-align: center;
+color: #191919;
+display: flex;
+margin: -17px;
+margin-left: -30px;
+}
+
+.postimg {
+    width: 320px;
+height: 240px;
+gap: 0px;
+border-radius: 12px ;
+opacity: 0px;
+display: flex;
+}
+
+.postinfa {
+    width: Hug (415px)px;
+height: Hug (200px)px;
+gap: 40px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
+
+
+
+.postinfavepx {
+    width: Hug (415px)px;
+height: Hug (128px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.infa1 {
+    width: 415px;
+height: 90px;
+gap: 0px;
+opacity: 0px;
+font-family: Garamond;
+font-size: 32px;
+font-weight: 700;
+line-height: 44.8px;
+text-align: left;
+color: #191919;
+display: flex;
+}
+
+.infa2 {
+    width: 415px;
+height: 22px;
+gap: 0px;
+opacity: 0.75px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: #191919;
+display: flex;
+}
+
+.postinfaniz {
+    width: Hug (309px)px;
+height: Hug (32px)px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+}
+
+
+.op1 {
+    width: Hug (90px)px;
+height: Hug (32px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+}
+
+.oop1 {
+    width: 38px;
+height: 22px;
+gap: 0px;
+opacity: 0.75px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: #191919;
+display: flex;
+}
+
+.op2 {
+    width: Hug (90px)px;
+height: Hug (32px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+}
+
+.oop2 {
+    width: 38px;
+height: 22px;
+gap: 0px;
+opacity: 0.75px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: #191919;
+display: flex;
+}
+
+.op3 {
+    width: Hug (69px)px;
+height: Hug (32px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+}
+
+.oop3 {
+    width: 17px;
+height: 22px;
+gap: 0px;
+opacity: 0.75px;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: #191919;
+display: flex;
+}
+
+.mnem {
+    width: 25.33px;
+height: 27.43px;
+top: 2.67px;
+left: 2.67px;
+gap: 0px;
+opacity: 0px;
+
+}
